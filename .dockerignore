@@ -1,0 +1,14 @@
+node_modules
+dist
+dist-server
+.cache
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+.kite-session.json
+.kite-session.json.tmp
+*.log
+*.md
+coverage
